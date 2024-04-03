@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @gypsybozo
-- 👀 I’m interested in sport
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..
+- I’m interested in technology in sport
+
 
 <!---
 gypsybozo/gypsybozo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
