@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gypsybozo
-- I’m interested in technology in sport
+- I’m interested in technology in sport and loads of other things
 
 
 <!---
