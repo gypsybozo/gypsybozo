@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @gypsybozo
-- I’m interested in technology in sport and loads of other things
+- 👋 Hi, I’m Kriti Bharadwaj, a computer science student.
+- I’m interested in the applications of technology in sport and loads of other things
 
 
 <!---
